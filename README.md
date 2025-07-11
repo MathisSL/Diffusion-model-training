@@ -17,3 +17,8 @@ Some images of the dataset :
 ![IMG_0488](https://github.com/user-attachments/assets/6912c66f-fc04-470a-93ca-366f2e060a68)
 ![IMG_0489](https://github.com/user-attachments/assets/5682f885-1b36-49fd-8095-5a5a0acd93c4)
 ![IMG_0490](https://github.com/user-attachments/assets/a1cc237e-388f-4e3b-98ee-c47926b42964)
+
+# Convolution transposée
+Même principe que la convolution normale, mais le filtre est plus grand permettant d'augmenter la résolution de l'image, mais on perds en canaux.
+
+<img width="1422" height="3076" alt="image _transposed_conv" src="https://github.com/user-attachments/assets/173df03f-abad-495c-94ce-62f84ca4578c" />
